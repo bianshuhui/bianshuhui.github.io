@@ -1,9 +1,9 @@
 # Shuhui Bian, Ph.D. 
-Principal Investigator;
-
+Principal Investigator of single-cell omics laboratory;
 E-mail：bianshuhui@pku.edu.cn
 
 ## Research Interests
+We use single-cell multiomics sequencing technique and bioinformatics method to explore important scienctific questions.
 1. Molecular mechanism of human reproductive disorders;
 2. Dynamic regulatory mechanism of tumorigenesis, progression and metastasis;
 3. Early diagnosis of cancer.
@@ -14,4 +14,4 @@ E-mail：bianshuhui@pku.edu.cn
 2. Yuan Zhou*, Shuhui Bian*, Xin Zhou*, Yueli Cui*, Wendong Wang, Lu Wen, Limei Guo, Wei Fu#, Fuchou Tang#. Single-cell multiomics sequencing reveals prevalent genomic alterations in tumor stromal cells of human colorectal cancer. Cancer Cell, https://doi.org/10.1016/j.ccell.2020.09.015 (2020).
 
 
-# Welcome to our lab @State Key Laboratory of Reproductive Medicine!
+## Welcome to our lab @State Key Laboratory of Reproductive Medicine!
