@@ -15,3 +15,5 @@ We use single-cell multiomics sequencing technique and bioinformatics method to 
 
 
 ## Welcome to our lab @State Key Laboratory of Reproductive Medicine!
+本课题组长期招聘博士后，提供有竞争力的薪酬和福利待遇，欢迎热爱科研的有志之士加入！具有单细胞组学、生物信息学、机器学习、类器官培养、基因编辑等实践经验者可优先考虑。
+本课题可接收研究生（含推免生、直博生、统考生），欢迎具有生命科学、基础医学、生物信息、计算机、数学、农学以及相关专业的同学积极联系。联系邮箱：bianshuhui@njmu.edu.cn。
