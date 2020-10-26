@@ -1,6 +1,6 @@
 # Shuhui Bian, Ph.D. 
 Principal Investigator of single-cell omics laboratory;
-E-mail：bianshuhui@pku.edu.cn
+E-mail：bianshuhui@njmu.edu.cn
 
 ## Research Interests
 We use single-cell multiomics sequencing technique and bioinformatics method to explore important scienctific questions.
