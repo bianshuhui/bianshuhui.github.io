@@ -1,5 +1,6 @@
 # Shuhui Bian, Ph.D. 
-Principal Investigator
+Principal Investigator;
+
 E-mail：bianshuhui@pku.edu.cn
 
 ## Research Interests
