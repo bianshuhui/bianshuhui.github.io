@@ -1,4 +1,4 @@
-# 
+# Welcome to our lab!
 ## Shuhui Bian, Ph.D. 
 Principal Investigator of single-cell omics laboratory;
 E-mail：bianshuhui@njmu.edu.cn
