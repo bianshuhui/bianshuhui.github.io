@@ -23,7 +23,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/guozhong_logo.jpg
+title-img: "/assets/img/square.jpg"
 
 
 # --- Footer social media links --- #
