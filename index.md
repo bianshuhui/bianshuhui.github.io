@@ -1,4 +1,4 @@
-# Welcome to our lab!
+# Bian lab
 
 ## Shuhui Bian, Ph.D. 
 Principal Investigator of single-cell omics laboratory;
